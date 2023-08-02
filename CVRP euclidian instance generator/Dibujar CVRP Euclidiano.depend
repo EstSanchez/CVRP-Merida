@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1651975574 source:d:\carrera\programa delfines\proyecto delfin\dibujar cvrp euclidiano\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1651975248 d:\carrera\programa delfines\proyecto delfin\dibujar cvrp euclidiano\miniwin.h
+	<iostream>
+
+1688754196 source:d:\carrera\programa delfines\proyecto delfin\dibujar cvrp euclidiano\cvrp dibujar instancias.cpp
+	<string>
+	<iostream>
+	"miniwin.h"
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<list>
+	<cmath>
+	"Nodo.h"
+
+1688753066 d:\carrera\programa delfines\proyecto delfin\dibujar cvrp euclidiano\nodo.h
+
